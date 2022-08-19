@@ -1,0 +1,24 @@
+<!doctype html>
+<html>
+	<head><title>class work</title>
+	</head>
+	<body>
+	<p>5 Ogunsiji close,</p>
+	<p>off Allen Avenue,</p>
+	       <p>lagos</p>
+        <p>Dear Sir,</p>
+   	<p>Apllication For The Role Of A programmer</p>
+	</body>
+
+	
+	
+
+
+
+
+
+
+	
+
+
+</html>
